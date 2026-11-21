@@ -1,0 +1,14 @@
+# id,name,age,severity,arrival,complaint
+01,Grace Namukasa,21,3,1,high fever
+02,Brian Okello,24,5,2,mild cough
+03,Sarah Nakato,19,2,3,difficulty breathing
+04,David Mugisha,32,4,4,sprained ankle
+05,Esther Atim,22,1,5,severe chest pain
+06,Moses Ssemwogerere,28,3,6,deep cut on hand
+07,Ruth Achieng,20,5,7,headache
+08,Peter Kato,45,2,8,severe asthma attack
+09,Joan Nalubega,23,4,9,stomach ache
+10,Isaac Opio,26,3,10,vomiting
+11,Mary Auma,30,5,11,skin rash
+12,Daniel Byaruhanga,35,1,12,fainted in class
+13,Dan Welishe,25,1,13,ulcers
